@@ -1,4 +1,4 @@
-# Mal-des-Vampirismus-TRA
+# Mal-des-Vampirismus-TRA-English
 This is an crude attempt to translate the mod Mal des Vampirismus v.1.3 for BG2:EE to English. 
 The author of the mod, and the German version can be found here:
 http://www.baldursgate-refugium.de/mods/mal-des-vampirismus/
