@@ -1,0 +1,315 @@
+@1 = ~Dawn of Vampirism~
+@2 = ~Dark Belt~
+@3 = ~A decorative, loose, black leather belt.
+
+VAMPIRES:
+These nocturnal hunters, cursed to an eternal existence as the undead, are continually making plans to strengthen themselves and fill the world with their repulsive offspring.
+Vampires appear just as they did in their lifetime, although their features often appeared hardened and brutal and they have the predatory look of a wolf. Like corpses, they often prefer riches and decadence and often disguise themselves as nobles. Despite their human appearance, vampires can easily be recognized, as they do not cast a shadow or have a reflection.
+
+As a Young Vampire, <CHARNAME> has the following ATTRIBUTES:
+
+Attributes: STR +6, DEX +4, INT +2, WIS +2, CHA +4
+
+Immunities: Immunity to Charm, Stun / Paralyze, Cling, Poison, Sleep, Level Drain, and Death Magic
+
+Can only be injured by magic weapons +1 or better
+
+Electricity Resistance: + 50%
+
+Cold Resistance: + 50%
+
+Regeneration: 3 HP per Round
+
+SPECIAL SKILLS:
+
+Gaseous form (automatic transformation at less than 50% HP, accelerated regeneration)
+Wolf Shape (any number / day)
+Bat Shape (any number / day)
+Natural Shape (any number / day)
+Blood Kiss (1x / day)
+Children of the Night (1x / day)
+
+Usable Only By:
+- <CHARNAME> ~
+@4 = ~A decorative, loose, black leather belt.
+
+VAMPIRES:
+These nocturnal hunters, cursed to an eternal existence as the undead, are continually making plans to strengthen themselves and fill the world with their repulsive offspring.
+Vampires appear just as they did in their lifetime, although their features often appeared hardened and brutal and they have the predatory look of a wolf. Like corpses, they often prefer riches and decadence and often disguise themselves as nobles. Despite their human appearance, vampires can easily be recognized, as they do not cast a shadow or have a reflection.
+
+As a Vampire, <CHARNAME> has the following ATTRIBUTES:
+
+Attributes: STR +6, DEX +4, INT +2, WIS +2, CHA +4
+
+Immunities: Immunity to Charm, Stun / Paralyze, Cling, Poison, Sleep, Level Drain, and Death Magic
+
+Can only be injured by magic weapons +1 or better
+
+Electricity Resistance: + 50%
+
+Cold Resistance: + 50%
+
+Regeneration: 3 HP per Round
+
+SPECIAL SKILLS:
+
+Gaseous form (automatic transformation at less than 50% HP, accelerated regeneration)
+Wolf Shape (any number / day)
+Bat Shape (any number / day)
+Natural Shape (any number / day)
+Blood Kiss (1x / day)
+Children of the Night (1x / day)
+
+Usable Only By:
+- <CHARNAME> ~
+@5 = ~A decorative, loose, black leather belt.
+
+VAMPIRES:
+These nocturnal hunters, cursed to an eternal existence as the undead, are continually making plans to strengthen themselves and fill the world with their repulsive offspring.
+Vampires appear just as they did in their lifetime, although their features often appeared hardened and brutal and they have the predatory look of a wolf. Like corpses, they often prefer riches and decadence and often disguise themselves as nobles. Despite their human appearance, vampires can easily be recognized, as they do not cast a shadow or have a reflection.
+
+As an Elder Vampire, <CHARNAME> has the following ATTRIBUTES:
+
+Attributes: STR +6, DEX +4, INT +2, WIS +2, CHA +4
+
+Immunities: Immunity to Charm, Stun / Paralyze, Cling, Poison, Sleep, Level Drain, and Death Magic
+
+Can only be injured by magic weapons +2 or better
+
+Electricity Resistance: + 50%
+
+Cold Resistance: + 50%
+
+Regeneration: 6 HP per Round
+
+SPECIAL SKILLS:
+
+Gaseous form (automatic transformation at less than 50% HP, accelerated regeneration)
+Wolf Shape (any number / day)
+Bat Shape (any number / day)
+Natural Shape (any number / day)
+Blood Kiss (1x / day)
+Children of the Night (1x / day)
+
+Usable Only By:
+- <CHARNAME> ~
+@6 = ~A decorative, loose, black leather belt.
+
+VAMPIRES:
+These nocturnal hunters, cursed to an eternal existence as the undead, are continually making plans to strengthen themselves and fill the world with their repulsive offspring.
+Vampires appear just as they did in their lifetime, although their features often appeared hardened and brutal and they have the predatory look of a wolf. Like corpses, they often prefer riches and decadence and often disguise themselves as nobles. Despite their human appearance, vampires can easily be recognized, as they do not cast a shadow or have a reflection.
+
+As a Vampire Lord, <CHARNAME> has the following ATTRIBUTES:
+
+Attributes: STR +6, DEX +4, INT +2, WIS +2, CHA +4
+
+Immunities: Immunity to Charm, Stun / Paralyze, Cling, Poison, Sleep, Level Drain, and Death Magic
+
+Can only be injured by magic weapons +3 or better
+
+Electricity Resistance: + 50%
+
+Cold Resistance: + 50%
+
+Regeneration: 12 HP per Round
+
+SPECIAL SKILLS:
+
+Gaseous form (automatic transformation at less than 50% HP, accelerated regeneration)
+Wolf Shape (any number / day)
+Bat Shape (any number / day)
+Natural Shape (any number / day)
+Blood Kiss (1x / day)
+Children of the Night (1x / day)
+
+Usable Only By:
+- <CHARNAME> ~
+@7 = ~Vampire Claws (<CHARNAME>)~
+@8 = ~The Vampire Claws of <CHARNAME> is a conduit for the negative planes. Their ice-cold touch counts as +1 weapon, deals 1d6 +1 points of damage and deprives the victim of 1 level.
+
+STATISTICS:
+
+Each hit causes the target to lose 1 level. The bearer may hit beings that can only be hurt by +1 magical weapons or better.
+
+THAC0 bonus: -1
+Damage: 1d6 +1 (force)
+Weight: 0
+Speed factor: 0
+Proficiency: Dagger
+Type: One-Handed
+
+Usable Only By:
+- <CHARNAME> ~
+@9 = ~The Vampire Claws of <CHARNAME> is a conduit for the negative planes. Their ice-cold touch counts as +2 weapon, deals 1d6 +2 points of damage and deprives the victim of 2 levels.
+
+STATISTICS:
+
+Each hit causes the target to lose 2 levels. The bearer may hit beings that can only be hurt by +2 magical weapons or better.
+
+THAC0 bonus: -2
+Damage: 1d6 +2 (force)
+Weight: 0
+Speed factor: 0
+Proficiency: Dagger
+Type: One-Handed
+
+Usable Only By:
+- <CHARNAME> ~
+@10 = ~The Vampire Claws of <CHARNAME> is a conduit for the negative planes. Their ice-cold touch counts as +3 weapon, deals 1d6 +3 points of damage and deprives the victim of 3 levels.
+
+STATISTICS:
+
+Each hit causes the target to lose 3 levels. The bearer may hit beings that can only be hurt by +3 magical weapons or better.
+
+THAC0 bonus: -3
+Damage: 1d6 +3 (force)
+Weight: 0
+Speed factor: 0
+Proficiency: Dagger
+Type: One-Handed
+
+Usable Only By:
+- <CHARNAME> ~
+@11 = ~The Vampire Claws of <CHARNAME> is a conduit for the negative planes. Their ice-cold touch counts as +4 weapon, deals 1d6 +4 points of damage and deprives the victim of 4 levels.
+
+STATISTICS:
+
+Each hit causes the target to lose 4 levels. The bearer may hit beings that can only be hurt by +4 magical weapons or better.
+
+THAC0 bonus: -4
+Damage: 1d6 +4 (force)
+Weight: 0
+Speed factor: 0
+Proficiency: Dagger
+Type: One-Handed
+
+Usable Only By:
+- <CHARNAME> ~
+@12 = ~The Vampire Claws of <CHARNAME> is a conduit for the negative planes. Their ice-cold touch counts as +5 weapon, deals 1d6 +5 points of damage and deprives the victim of 5 levels.
+
+STATISTICS:
+
+Each hit causes the target to lose 5 levels. The bearer may hit beings that can only be hurt by +5 magical weapons or better.
+
+THAC0 bonus: -5
+Damage: 1d6 +5 (force)
+Weight: 0
+Speed factor: 0
+Proficiency: Dagger
+Type: One-Handed
+
+Usable Only By:
+- <CHARNAME> ~
+@13 = ~Sun Ward~
+@14 = ~Gaseous Form~
+@15 = ~Blood Kiss~
+@16 = ~Wolf Shape~
+@17 = ~Bat Shape~
+@18 = ~Natural Shape~
+@19 = ~Usable only by <CHARNAME>!~
+@20 = ~Valen Mod found, installing Cleric-script-bugfix...~
+@21 = ~You wade through the blood cautiously, feeling here and there under the surface, and after some groping you find a Mace at the bottom of the pool.~
+@22 = ~The blood is warm and gives off a sweet seductive smell. If you want, you can drink from it.~
+@23 = ~You drink the blood and feel new life flowing through you. The blood gives you new strength and energy.~
+@24 = ~This pool is filled with fresh human blood.~
+@26 = ~Vampire! Kill this beast!~
+@27 = ~May the light of the Morning-Lord burn you, monster!~
+@28 = ~Amaleth~
+@29 = ~Taeric~
+@30 = ~Knight of the Morning-Lord~
+@31 = ~This mod requires Throne of Bhaal to be installed!~
+@33 = ~2 levels lost~
+@34 = ~Children of the Night~
+@35 = ~Wolf~
+@36 = ~Larcus~
+@37 = ~Larcu's shop~
+@41 = ~Blood Vial~
+@42 = ~This bottle is filled with a dark, wine-red liquid. It is fresh human blood. The sight of the drawn blood alone can be shocking, if not disgusting, to the living, but for the blood-sucking undead it exerts an almost unearthly attraction. The contents of the bottle are able to temporarily quench a vampire's immortal thirst for blood.
+
+STATISTICS:
+When consumed, the vampiric thirst for blood is quenched and 25 HP is healed. The potion is completely used up when used.
+
+Weight: 1
+
+Can only be used by vampires. ~
+@43 = ~Cannot be used by vampires! ~
+@44 = ~This letter is in elegant handwriting:
+
+"My faithful General Jamis!
+I ask you to march with great haste and intercept the vampire bhaal brood <CHARNAME> before <PRO_HESHE> can do any more damage. Regardless of whether <PRO_HESHE> was really responsible for what happened in Saradush, we cannot allow <PRO_HESHE> to continue like this. We can't waste time giving a bloodsucking monster a fair trial if we can capture <CHARNAME>. Our other forces are trying to contain the excesses at Myratma and to keep those who seek to take advantage of our hour of weakness away from our borders. You are our only hope of stopping <CHARNAME>. Use whatever means is necessary. During the daytime hours, <CHARNAME> will be weakened, perhaps even resting in a sarcophagus somewhere. Fire, sacred water and wooden stakes will be your most effective means of fighting the vampire. Take care, old friend!
+May the gods help us all!
+The royal monarch Ziranda Rhindaun."~
+@45 = ~Bounty Order for the Mercenaries of the Flaming Rose ~
+@46 = ~Danguin Flamedeath,
+
+The Crown needs the services of your Kossuth-fearing Mercenaries of the Flaming Rose. The brood of bhaal pose a threat to the entire Sword Coast, but <CHARNAME> stands out among them. Countless mass murders and other crimes are charged with this descendant, the siege and destruction of the city of Saradush is just one of the most recent crimes. It is known that <PRO_HESHE> is a vampire and <PRO_HISHER> e excesses of violence not only lead to the satisfaction of <PRO_HISHER> dark desires, but also to intoxicate oneself with the blood of <PRO_HISHER> victims and to multiply <PRO_HISHER> an unholy way . <CHARNAME> must be stopped! Burn this scum with the divine flame and wipe <PRO_HISHER> dark faces from our world. Do this and the crown will distinguish you as a hero. You should have a title of nobility and your own land and retinue. In addition, by edict I declared a bounty of 100,000 gold coins on <CHARNAME> and <PRO_HISHER> followers, which you will also be entitled to if you succeed.
+
+If you can, join General Jamis Tombelthen's forces. He is leading a group of brave soldiers into the Amkethran area on my behalf to intercept <CHARNAME>. Together you can be successful where one would fail.
+
+Do your duty,
+My prayers follow the Path of your Swords.
+
+Ziranda Rhindaun
+Royal Monarch of Thetyr. ~
+@47 = ~Danguin Flamedeath ~
+@48 = ~Kalvija ~
+@49 = ~Mercenaries of the Flaming Rose ~
+@50 = ~Mercenary of the Flaming Rose ~
+@51 = ~Vampire's Gaze~
+@52 = ~Vampire's Gaze
+
+Range: 9 m
+Duration: 3 rounds + 1 round/level
+Casting Time: 1
+Area of Effect: One Creature
+Saving Throw: vs. Spell
+
+A vampire can break an opponent's will by just looking them in the eyes. This ability is comparable to a gaze attack, with the exception that the vampire must actively use a standard action. If the target fails a save-throw of -2 against spells, the vampire will influence it. Control is maintained through a telepathic bond between the vampire and his victim. In contrast to the priestly spell "Spiritual Mastery" of the 4th degree, the victim has no chance of shaking off the effect even if he is forced to do something that contradicts his moral principles. The effects can only be canceled by "dispel magic". ~
+@53 = ~Blood Kiss ~
+@54 = ~Blood Kiss
+
+Range: Touch
+Duration: Instant
+Casting Time: 2
+Area of Effect: One Creature
+Saving Throw: vs. Death
+
+A vampire can steal the blood of a living victim by attacking his fangs. If the victim of the attack fails a life throw against death, the vampire drinks his blood and deprives him of 1-4 constitution and knocks him out for 5 rounds. ~
+@55 = ~Wolf Shape
+
+Range: Self
+Duration: Until next sunrise
+Casting Time: 1
+Area of Effect: Self
+Saving Throw: None
+
+A vampire can take the form of a wolf with a standard action. In this alternate form, he cannot use spells, special abilities, thief abilities or items. He keeps his hit points, attributes, resistances, immunities and other properties. As a weapon he can only use the natural attack of the wolf form. This attack is a conduit to the negative plane. His ice-cold touch counts as a +2 weapon, deals 1d6 + 2 points of damage, and deprives the victim of 2 levels. ~
+@56 = ~Bat Shape
+
+Range: Self
+Duration: Until next sunrise
+Casting Time: 1
+Area of Effect: Self
+Saving Throw: None
+
+A vampire can take the form of a bat with a standard action. In this alternate form, he cannot use spells, special abilities, thief abilities or items. He keeps his hit points, attributes, resistances, immunities and other properties. As a weapon he can only use the natural attack of the bat shape. This attack is a conduit to the negative plane. His ice-cold touch counts as a +2 weapon, deals 1d6 + 2 points of damage, and deprives the victim of 2 levels. ~
+@57 = ~Children of the Night
+
+Range: 4,5 m
+Duration: 1 hour
+Casting Time: 5
+Area of Effect: Special
+Saving Throw: None
+
+Vampires rule the lower creatures of the world and can summon them to reinforce them once a day. The type of creature depends on the level of the vampire:
+ Levels 1-10: Summons 1d4 rats
+ Levels 11-20: Summons 1d4 wolves
+ Levels 21–30: Summons 1d4 shadows.
+
+If they are not destroyed, the creatures serve the vampire for up to an hour. ~
+@58 = ~Rat ~
+@59 = ~Shadow ~
+@60 = ~Vampire ~
+@61 = ~Young Vampire ~
+@62 = ~Elder Vampire ~
+@63 = ~Vampire Lord ~
