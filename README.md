@@ -11,8 +11,6 @@ I also have no idea how to do the things I'm doing.
 
 Please refer to the website provided to get the changelog and a detailed description, albeit being in German.
  
-AUTO-TRANSLATED FROM SOURCE:
--
 DESCRIPTION:
--
+
 The modification gives the player the opportunity to become a vampire in the course of the main quest of Shadows of Amn. The player must join Bodhi's guild. The choice to be turned into a vampire is voluntary and final. Once the player has been transformed, there is no going back.
