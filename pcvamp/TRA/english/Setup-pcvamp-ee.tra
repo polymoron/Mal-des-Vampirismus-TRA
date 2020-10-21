@@ -1,0 +1,178 @@
+@3 = ~A decorative, loose, black leather belt.
+
+VAMPIRES:
+These nocturnal hunters, cursed to an eternal existence as the undead, are continually making plans to strengthen themselves and fill the world with their repulsive offspring.
+Vampires appear just as they did in their lifetime, although their features often appeared hardened and brutal and they have the predatory look of a wolf. Like corpses, they often prefer riches and decadence and often disguise themselves as nobles. Despite their human appearance, vampires can easily be recognized, as they do not cast a shadow or have a reflection.
+
+As a Young Vampire, <CHARNAME> has the following ATTRIBUTES:
+
+Attributes: STR +6, DEX +4, INT +2, WIS +2, CHA +4
+
+Immunities: Immunity to Charm, Stun / Paralyze, Cling, Poison, Sleep, Level Drain, and Death Magic
+
+Can only be injured by magic weapons +1 or better
+
+Electricity Resistance: + 50%
+
+Cold Resistance: + 50%
+
+Regeneration: 3 HP per Round
+
+SPECIAL SKILLS:
+
+Gaseous form (automatic transformation at less than 50% HP, accelerated regeneration)
+Wolf Shape (any number / day)
+Bat Shape (any number / day)
+Natural Shape (any number / day)
+Blood Kiss (1x / day)
+Children of the Night (1x / day)~
+@4 = ~A decorative, loose, black leather belt.
+
+VAMPIRES:
+These nocturnal hunters, cursed to an eternal existence as the undead, are continually making plans to strengthen themselves and fill the world with their repulsive offspring.
+Vampires appear just as they did in their lifetime, although their features often appeared hardened and brutal and they have the predatory look of a wolf. Like corpses, they often prefer riches and decadence and often disguise themselves as nobles. Despite their human appearance, vampires can easily be recognized, as they do not cast a shadow or have a reflection.
+
+As a Vampire, <CHARNAME> has the following ATTRIBUTES:
+
+Attributes: STR +6, DEX +4, INT +2, WIS +2, CHA +4
+
+Immunities: Immunity to Charm, Stun / Paralyze, Cling, Poison, Sleep, Level Drain, and Death Magic
+
+Can only be injured by magic weapons +1 or better
+
+Electricity Resistance: + 50%
+
+Cold Resistance: + 50%
+
+Regeneration: 3 HP per Round
+
+SPECIAL SKILLS:
+
+Gaseous form (automatic transformation at less than 50% HP, accelerated regeneration)
+Wolf Shape (any number / day)
+Bat Shape (any number / day)
+Natural Shape (any number / day)
+Blood Kiss (1x / day)
+Children of the Night (1x / day)~
+@5 = ~A decorative, loose, black leather belt.
+
+VAMPIRES:
+These nocturnal hunters, cursed to an eternal existence as the undead, are continually making plans to strengthen themselves and fill the world with their repulsive offspring.
+Vampires appear just as they did in their lifetime, although their features often appeared hardened and brutal and they have the predatory look of a wolf. Like corpses, they often prefer riches and decadence and often disguise themselves as nobles. Despite their human appearance, vampires can easily be recognized, as they do not cast a shadow or have a reflection.
+
+As an Elder Vampire, <CHARNAME> has the following ATTRIBUTES:
+
+Attributes: STR +6, DEX +4, INT +2, WIS +2, CHA +4
+
+Immunities: Immunity to Charm, Stun / Paralyze, Cling, Poison, Sleep, Level Drain, and Death Magic
+
+Can only be injured by magic weapons +2 or better
+
+Electricity Resistance: + 50%
+
+Cold Resistance: + 50%
+
+Regeneration: 6 HP per Round
+
+SPECIAL SKILLS:
+
+Gaseous form (automatic transformation at less than 50% HP, accelerated regeneration)
+Wolf Shape (any number / day)
+Bat Shape (any number / day)
+Natural Shape (any number / day)
+Blood Kiss (1x / day)
+Children of the Night (1x / day)~
+@6 = ~A decorative, loose, black leather belt.
+
+VAMPIRES:
+These nocturnal hunters, cursed to an eternal existence as the undead, are continually making plans to strengthen themselves and fill the world with their repulsive offspring.
+Vampires appear just as they did in their lifetime, although their features often appeared hardened and brutal and they have the predatory look of a wolf. Like corpses, they often prefer riches and decadence and often disguise themselves as nobles. Despite their human appearance, vampires can easily be recognized, as they do not cast a shadow or have a reflection.
+
+As a Vampire Lord, <CHARNAME> has the following ATTRIBUTES:
+
+Attributes: STR +6, DEX +4, INT +2, WIS +2, CHA +4
+
+Immunities: Immunity to Charm, Stun / Paralyze, Cling, Poison, Sleep, Level Drain, and Death Magic
+
+Can only be injured by magic weapons +3 or better
+
+Electricity Resistance: + 50%
+
+Cold Resistance: + 50%
+
+Regeneration: 12 HP per Round
+
+SPECIAL SKILLS:
+
+Gaseous form (automatic transformation at less than 50% HP, accelerated regeneration)
+Wolf Shape (any number / day)
+Bat Shape (any number / day)
+Natural Shape (any number / day)
+Blood Kiss (1x / day)
+Children of the Night (1x / day)~
+@8 = ~The Vampire Claws of <CHARNAME> is a conduit for the negative planes. Their ice-cold touch counts as +1 weapon, deals 1d6 +1 points of damage and deprives the victim of 1 level.
+
+STATISTICS:
+
+Each hit causes the target to lose 1 level. The bearer may hit beings that can only be hurt by +1 magical weapons or better.
+
+THAC0 bonus: -1
+Damage: 1d6 +1 (force)
+Weight: 0
+Speed factor: 0
+Proficiency: Dagger
+Type: One-Handed~
+@9 = ~The Vampire Claws of <CHARNAME> is a conduit for the negative planes. Their ice-cold touch counts as +2 weapon, deals 1d6 +2 points of damage and deprives the victim of 2 levels.
+
+STATISTICS:
+
+Each hit causes the target to lose 2 levels. The bearer may hit beings that can only be hurt by +2 magical weapons or better.
+
+THAC0 bonus: -2
+Damage: 1d6 +2 (force)
+Weight: 0
+Speed factor: 0
+Proficiency: Dagger
+Type: One-Handed~
+@10 = ~The Vampire Claws of <CHARNAME> is a conduit for the negative planes. Their ice-cold touch counts as +3 weapon, deals 1d6 +3 points of damage and deprives the victim of 3 levels.
+
+STATISTICS:
+
+Each hit causes the target to lose 3 levels. The bearer may hit beings that can only be hurt by +3 magical weapons or better.
+
+THAC0 bonus: -3
+Damage: 1d6 +3 (force)
+Weight: 0
+Speed factor: 0
+Proficiency: Dagger
+Type: One-Handed~
+@11 = ~The Vampire Claws of <CHARNAME> is a conduit for the negative planes. Their ice-cold touch counts as +4 weapon, deals 1d6 +4 points of damage and deprives the victim of 4 levels.
+
+STATISTICS:
+
+Each hit causes the target to lose 4 levels. The bearer may hit beings that can only be hurt by +4 magical weapons or better.
+
+THAC0 bonus: -4
+Damage: 1d6 +4 (force)
+Weight: 0
+Speed factor: 0
+Proficiency: Dagger
+Type: One-Handed~
+@12 = ~The Vampire Claws of <CHARNAME> is a conduit for the negative planes. Their ice-cold touch counts as +5 weapon, deals 1d6 +5 points of damage and deprives the victim of 5 levels.
+
+STATISTICS:
+
+Each hit causes the target to lose 5 levels. The bearer may hit beings that can only be hurt by +5 magical weapons or better.
+
+THAC0 bonus: -5
+Damage: 1d6 +5 (force)
+Weight: 0
+Speed factor: 0
+Proficiency: Dagger
+Type: One-Handed~
+@42 = ~This bottle is filled with a dark, wine-red liquid. It is fresh human blood. The sight of the drawn blood alone can be shocking, if not disgusting, to the living, but for the blood-sucking undead it exerts an almost unearthly attraction. The contents of the bottle are able to temporarily quench a vampire's immortal thirst for blood.
+
+STATISTICS:
+When consumed, the vampiric thirst for blood is quenched and 25 HP is healed. The potion is completely used up when used.
+
+Weight: 1~

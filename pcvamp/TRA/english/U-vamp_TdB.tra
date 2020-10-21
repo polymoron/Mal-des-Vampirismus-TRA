@@ -1,0 +1,69 @@
+@1 = ~Avoiding the hours of the day and using those of the night, <CHARNAME> s figure with the pale cheeks, captured in the prime of his youth, does not suggest that behind his charismatic face there is one of those monsters who chase after the living seek the blood. And yet he has a reputation for robbing his enemies not only of life but also of blood.~
+		~Avoiding the hours of the day and using those of the night <CHARNAME> s delicate figure with pale cheeks, captured in an eternally youthful bloom, does not suggest that behind her attractive face one of those monsters is hiding, who seek the living after the blood . And yet it has a reputation for stealing not only life but also blood from its enemies.~
+@2 = ~I prepared myself especially for this little vampire hunt. A sharpened stake is waiting to pierce your heart. I heard your bodies crumble to ashes in the process, yes? Well we'll see.~
+@3 = ~What has actually happened to you since the last time we crossed swords? Who or what has put the curse of undeath on you? ~
+@4 = ~I don't have time for that now.~
+@5 = ~It's not a curse. It's a blessing ... a gift.~
+@6 = ~That's none of your business.~
+@7 = ~The vampire Bodhi made me what I am. But it was my own decision to go this route.~
+@8 = ~I'm just trying to understand you better. At the moment we are treading a common path and in view of our history you can hardly deny me a certain interest in you.~
+@9 = ~You consider vampirism a virtue, yes? Perhaps it is. Undoubtedly it goes in perfect harmony with the bhaal blood that drives us to endless murder and killing. The indulging in blood and the euphoria of killing ...~
+@10 = ~Then you must have had great faith in this Bodhi. When she kissed you blood, you must have been at her mercy. And that means that she could have killed you instead of turning you into one of her brood.~
+@11 = ~But good. Let's talk another time.~
+@12 = ~But the sunlight turns you into ashes. That's a weakness. A weakness that your enemies can exploit and use against you.~
+@13 = ~I feel weakened in the sunshine, but it by no means kills me.~
+@14 = ~Are you worried about me? ~
+@15 = ~Some things are worth a catch. Immortality, for example.~
+@16 = ~Apart from that, every vampire is a slave to the will of its creator. What does eternal life mean when one has to spend it in bondage? ~
+@17 = ~How do you know so much about vampires? ~
+@18 = ~Are you worried about me? ~
+@19 = ~Don't worry, I'm my own master.~
+@20 = ~We are no stronger than we are in our weakest moment, my brother.~
+		~We are no stronger than we are in our weakest moment, my sister.~
+@21 = ~Don't be ridiculous, you'd be dead long ago if you couldn't take care of yourself. It is not worry that concerns me. I was just curious to see if you were aware of yourself. I also like to be prepared, because believe me, sooner or later your enemies will use your undead existence as a weapon against you.~
+@22 = ~What does eternal life mean when you have to spend it in bondage. Every vampire is a slave to the will of its creator. But I suppose you already know that.~
+@23 = ~I have been interested in mysterious and powerful creatures since I was young and have read a lot. I was curious to see if you were aware of yourself. I like to be prepared. Believe me, sooner or later your enemies will use your undead existence as a weapon against you.~
+@24 = ~Gromnir has heard a lot from you, bloodsucker bhaal brood. You won't get Gromnir's blood! He will crush YOU and bathe YOU in YOUR blood! ~
+@25 = ~The vampiric bhaal brood in flesh and blood. I would eat your little heart if it were edible! ~
+@26 = ~But you too have your share in it. You even voluntarily threw your life away and chose undeath. I can hardly express how disappointed I am with what has become of you.~
+@27 = ~And there you snow in ... the neck biter from the Bhaal brood. Trailing a trail of blood and corpses behind you.~
+@28 = ~There can be no doubt about your wickedness, you are a vampire. Your malevolence goes beyond the mere mortal and even surpasses that of the remaining five.~
+@29 = ~I wonder what effects vampirism will have on Bhaal's legacy and your future fate. You are probably the only descendant of the bhaal who stands between life and death in this way and is neither one nor the other.~
+@30 = ~Why are you so interested in this? ~
+@31 = ~What do you think about that? ~
+@32 = ~I'm not sure, but unlike you, the essence of our father did not leave me with my death.~
+@33 = ~Couldn't there be other undead bhaal children too? ~
+@34 = ~I will accompany you on the way to the fulfillment of your destiny. But what awaits you in the end is unclear. Perhaps you are fulfilling Alaundo's prophecy. Perhaps you will walk in the shadows forever ... or you will find ultimate death. I am convinced that there will be a settlement in the end, in whatever form.~
+@35 = ~Your transformation into a vampire made you die, that's true. However, your soul has not detached itself from your body. You are a living soul in a dead body. My soul left my body in death and evaporated into the Abyss. The bond between body and soul holds Bhaal's essence together. That is the difference. As long as your undead body is not completely destroyed, you will probably preserve the essence of our dead father.~
+@36 = ~This is not impossible, but despite the vampires and corpses you may have come across in the past, this higher form of undeath is quite rare.~
+@37 = ~We both have more in common than you might realize. Before Imoen breathed new life into me with part of her soul, I was a ghost, a faded shadow. I know what it means to be undead.~
+@38 = ~We both have more in common than you might realize. Before you breathed new life into me with part of your soul, I was a ghost, a faded shadow. I know what it means to stand between life and death.~
+@39 = ~I would always prefer the existence as a vampire to that of a disembodied death albumen. Apart from that, as I mentioned before, it gives the bloodlust of our heritage an end in itself in a special way.~
+@40 = ~It will be interesting to accompany you on your way and to fathom these mysteries, <CHARNAME>. But we should move on now, there is still a lot to do.~
+@41 = ~Longevity is in the blood of my race from birth, but you try to escape your pathetic short life by fleeing to undeath. But you are and will remain a wretched, lower being.~
+@42 = ~You are a child of the Bhaal and a vampire. You are responsible for the destruction of the city of Saradush. I have orders to execute you, <CHARNAME>. May the gods have mercy on your soul, if you still have such a thing! ~
+@43 = ~Look who's walking into the camp. If that's not our bounty ...~
+@44 = ~I don't expect you to drop your guns and die a quick death, <CHARNAME>? ~
+@45 = ~Who are you and what do you want from me? ~
+@46 = ~No, but I'll give you the same choice.~
+@47 = ~Can't we do without a bloodshed and somehow come to an agreement? ~
+@48 = ~I don't know who you are, but that doesn't matter either, you have dedicated yourself to death.~
+@49 = ~They call me Danguin Flammentod, I lead the mercenaries of the Flaming Rose. The royal monarch Ziranda Rhindaun of Tethyr has paid a substantial sum for the extinction of your undead existence. An assignment that the mercenaries of the Flaming Rose could not possibly refuse.~
+@50 = ~That is very generous of you, but we too have to refuse. To arms, men. Slaughter them and watch out for the vampire. We have to catch him before he can transform and escape.~
+		~That is very generous of you, but we too have to refuse. To arms, men. Slaughter her and watch out for the vampire. We have to catch her before she can transform and escape.~
+@51 = ~You are not a man of big words, I can respect that. Let's just get this over with. Men, get your guns ready and slaughter them. And watch out for the vampire. We have to catch him before he can transform and escape.~
+		~You are not a woman of big words, I can respect that. Let's just get this over with. Men, get your guns ready and slaughter them. And watch out for the vampire. We have to catch her before she can transform and escape.~
+@52 = ~It looks like it, my dear Calvija. Unfortunately, I have to disappoint you, <CHARNAME>, there is no negotiation. However, I will tell you who your murderer is and to whom you owe our meeting.~
+@53 = ~Have I satisfied your curiosity? No? I thought so. But it's time to end this. Men, get your guns ready and slaughter them. And watch out for the vampire. We have to catch him before he can transform and escape.~
+		~Have I satisfied your curiosity? No? I thought so. But it's time to end this. Men, get your guns ready and slaughter them. And watch out for the vampire. We have to catch her before she can transform and escape.~
+@54 = ~Is that him? Is that the vampire bhaal brood? I imagined it to be different somehow. It doesn't look that threatening.~
+		~Is that her? Is that the vampire bhaal brood? I imagined it to be different somehow. It doesn't look that threatening.~
+@55 = ~Either <PRO_HESHE> has heard of our group or <PRO_HESHE> is just another feeble fool.~
+@56 = ~I beg your pardon? The vampire bhaal brood? Here?! Are these damn whores completely out of their minds ?! Forgive me if you have been attacked here. Some of our species are little more than instinctive animals. They lack discipline and sensitivity.~
+@57 = ~You better avoid me if you know what is good for you.~
+@58 = ~No more excuses, you will all die together! ~
+@59 = ~We're of the same kind, maybe we can work together? ~
+@60 = ~All right, I won't get in your way. It's time to find another hiding place anyway. The city is no longer safe. But I can only speak for myself. The others will probably not let you go without a fight. Let them bleed when they lack insight, they don't deserve otherwise. Farewell ...~
+@61 = ~We share the thirst for blood, but you are the essence of the gods. Your fight is not mine, I would never be up to it. Forgive me, but you must fight it alone. But I won't stand in your way. It is time to look for another hiding place anyway. The city is no longer safe. But I can only speak for myself. The others will probably not let you go without a fight. Let them bleed when they lack insight, they don't deserve otherwise. Farewell ...~
+@62 = ~Well, if that's not a particularly juicy specimen of the female sex! Why are we both pulling ... wait a minute. You are ... we don't match. Just keep going! ~
+@63 = ~What a strong man! Why are we both pulling ... wait a minute. You are ... we don't match. Just keep going! ~

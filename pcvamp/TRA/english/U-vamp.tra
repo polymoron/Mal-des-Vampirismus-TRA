@@ -1,0 +1,433 @@
+@16 = ~Do not believe that it will be easy to move to this place. It's no secret to you that Jon is extremely powerful. Do you remember how he ruined the promenade? If the veiled magician could capture him, it could only mean that they are equally or even more powerful to him. In any case, you will be rewarded with strong magic. Do you think you are armed today? ~
+@17 = ~Do you think this is the first time I'm dealing with magicians? I know how to deal with it. ~
+@18 = ~What do you care if I'm equipped for this fight? Have I not already proven my skills enough? ~
+@19 = ~Then can I assume that you will support me in the fight when it's far? Or do you hide yourself like in the fight against the shadow thieves and let me do all the work? ~
+@20 = ~I have not come this far to be deterred by the veiled magicians and their spies. ~
+@21 = ~Maybe that's it. You are capable of the deed and you do not lack courage. Whether this will be sufficient in the end will be seen. Nevertheless, I'm in a position to help you if you want~
+@22 = ~You have probably killed the largest criminal underground organization on the entire coast of Sword Coast. Even though this is impressive, it is not to be forgotten that at the time of its destruction it had already been sensitively weakened. ~
+@23 = ~Have I not already shown my good will when I made you the services of my beloved Valen here? I'm assuming she's made your contribution to your success against the shadow thieves. Nevertheless, I also intend to let you know about it ... to make confessions. ~
+@24 = ~You have fulfilled your part of our agreement and I will stand by mine. So it does not dare to call me cowardly! ~
+@25 = ~As I said before, the victory over the shadow thieves was not one of my priorities, but was more like a nice side effect. If I had really wanted the destruction of the shadow thieves and pursued them with more dedication, you would have been wiped out before your arrival in Jons Obhut. ~
+@26 = ~Let's get to the point. I'm in a position to sharply improve your prospects for ... Let me explain what I can do for you. ~
+@27 = ~You get the unique opportunity to join the ... family. Leave the world of flesh behind you and find eternal life in the cold embrace of death. Consider it a reward for your services and for the murder of Aran Linvail. ~
+@28 = ~The choice is yours, <CHARNAME>. You will not receive such an offer a second time. ~
+@29 = ~My need has made us allies and I've done things I'm not necessarily proud of, but that's going too far. ~
+@30 = ~Why should I want to become a monster that is hunted and hated by all? ~
+@31 = ~How would this happen? ~
+@32 = ~I accept. ~
+@33 = ~If that's your choice, then let's not talk about it anymore. However, think of the power that knocks you out. Think of the short life that leads you to mortality. Do you not believe that in your deathbed everything will be exchanged to be able to stand before this decision once again today? Think carefully about whether your word is the last word. ~
+@34 = ~No. My decision is clear. Life is for the living, everything else is against nature. ~
+@35 = ~Then explain to me why I should become a soulless monster who imitates the living. ~
+@36 = ~Well, I thought of it differently. I accept your offer. ~
+@37 = ~Of course the power weighs! The Untod not only gives you immortality, but also abilities and resilience that go far beyond your mortal imagination. The disguised magicians possess spells that tear and enslave a living being, peel the flesh off their bones, and enslave the mind. Choose the undead and their magic will be ineffectively puffed at you. ~
+@38 = ~I give you the blood kiss and in his embrace you slide into the shadow world. A bite, a brief moment of pain and the transformation begins ... and you belong to us. ~
+@39 = ~You made the right decision! Come to me, <GIRLBOY>. It should start immediately. Relax and close your eyes. I will be gentle to you ... ~
+@40 = ~How unfortunate ... but it's your choice. I'm assuming you wanted to talk to the magic party again, yes? The island is located west of the Amnian coast in the Black Sea. ~
+@41 = ~So what's your decision, <CHARNAME>? ~
+@42 = ~I will not do it, keep your damnation for you. ~
+@43 = ~I'm ready to sacrifice if it brings me power and victory over my enemies. I agree. ~
+@44 = ~(Bodhi slowly approaches you. A predatory gleam lies in her eyes. As a smile wraps around her pale features, her fingers flash menacingly. Neck gently to the side. Your neck is exposed and delivered to you unprotected. With cramped fingers you try to suppress the need to push them away from you. You try to gather yourself inwardly and to prepare for what will inevitably come.) ~
+@45 = ~(You do not have to wait long. A hot pain passes through your body as the prisoners drill into your throat. You feel how life begins to flow from your body, accompanied by a feeling of growing weakness. Then leaves. Pain as sudden as it has come and is replaced to your amazement by a feeling of euphoria.An intoxicating feeling fills and enchants your senses.It feels as if someone had a bucket of hot water in your uncooked tub. Cribs extend from your abdomen to your fingertips and toes.) ~
+@46 = ~(But even this feeling is not lasting. Your knees become soft and give in eventually. You sink to the ground and Bodhi follows you, does not let go of an inch of you. She continues to lick your blood. The power to offer a weapon has long since been lost, your arms no longer obey your commands, your body becomes cooler, your breath slows down and an uncontrollable fear, a panic like you never knew, burns in your heart. Fear of death.) ~
+@47 = ~(An icy cold makes your body tremble and announces that it has not survived for a long time. A last breath evokes your lungs and it is you, as you freeze the remaining blood in the veins. Then you will overcome burning pain. It springs from your chest and continues to your toes. The pains are unbearable.) ~
+@48 = ~(Your body dies slowly and painfully. When the pain finally leaves after seemingly endless moments, your heart stands still. It is dead, just like you. The world of darkness has received you and you are now walking on the Paths of the Undead. Vampirism has breathed eternal life into you. This curse not only gives you the gift of immortality, but also powers that cast shadows on every mortal imagination. empty vessel, which is constantly thirsty to be filled. But even if you need the blood of the living to maintain your dark existence, you will never be freed from your hunger. It will drive you to kill and so the burden will be on. Your cursed souls with every corpse larger that leaves you.) ~
+@49 = ~(You too have won a merciless new enemy. You are forced to walk the rest of eternity in darkness, for the sun burns and weakens you. Even if the essence of the Baal in You is allowed to you To resist daylight, so you will be sensitively weakened during the day.) ~
+@50 = ~It's done, you belong to the family now. I must congratulate you, my child. Oh, no worries, I do not expect you to be slavish to me in services like my other children. I will already be benefiting from our agreement if, thanks to my help, you will not be killed by the veiled magicians. It's sure to be an ... unpleasant surprise for the naked when you meet them. ~
+@51 = ~I certainly do not need to point out to you that from now on you should avoid daylight and fire, as your "life" depends on it, hm? No, that's probably superfluous. I'm sure you'll already get it done and… Have fun using your new "talents". ~
+@52 = ~So, let's come back to the magic party. ~
+@53 = ~Vampirism
+
+After the removal of the leader of the shadow thief, Aran Linvail, Bodhi made me the offer to give me the "blood kiss". Bodhi thought I would need all the strength I could get to be able to meet the challenges of magic spells where Irenicus and Imoen mine. I stand before the decision to exchange my life and the damnation of my soul for the prospect of immortality and power.
+
+I accepted her offer and thus the existence as a killer, as a vampire. The transformation process was more painful than anything I've ever experienced in my life, but I'm sure the benefits of my new existence will be worth it. ~
+@54 = ~Vampirism
+
+After the removal of the leader of the shadow thief, Aran Linvail, Bodhi made me the offer to give me the "blood kiss". Bodhi thought I would need all the strength I could get to be able to meet the challenges of magic spells where Irenicus and Imoen mine. I stand in exchange for the decision to exchange my life and the damnation of my soul for the prospect of immortality and power.
+
+I declined your offer. The need may have made us allies, but that does not mean that I call their supernatural existence good. I'm not ready to damn my life and my soul and become a monster. My decision disappointed Bodhi. Whether our business relationship will suffer, remains to be seen. ~
+@55 = ~Now, how will you decide, <CHARNAME>? ~
+@56 = ~I have read of the dark creatures of the night, Abbil. Shaar looks at her with a smile. They are blessed by you and make use of the power of negative energy and shadows, but fear the day when they burn in sunlight. They are powerful and dangerous. You would be a fool to not accept the offer. It's a great gift and will give you strength. The light is a low price for it, do not you think? ~
+@57 = ~I've sent enough stinking corpses into the final sleep that actually should have been. Bloodsuckers may be a bit different, but dead is dead, I say. At least that's how it should be. Doesn't sound like a good deal, just throw your life away. Is of course your decision. As long as you do not jump on my neck ... then my ax speaks. ~
+@58 = ~Many magicians who follow the path of necromancy dream of eternal life. Vampirism would in fact be an opportunity to achieve that. (Once you leave out the ridiculous chains of morality, this prospect certainly has its charm. But there is no worm without hooks). ~
+@59 = ~Please wait, <CHARNAME>. It does not sound like you could undo your decision afterwards. From a moral point of view, this is certainly questionable. On the other hand ... what good is morality when one is dead, because one lacks the strength to defeat one's enemy? There remains a difficult question ... ~
+@60 = ~Oh you my goodness! The strange pale young woman wants you to join her family. <CHARNAME>, is not that exciting? In my family, such a reunion is traditionally performed with great solemnity. Family ties are very important, you know? ~
+@61 = ~I would be happy to take over the organization for you. I still have dozens of barrels of turnips in the basement. We could serve guests a delicious stew. ~
+@62 = ~No, wait! You can not do that! Untod is nature again. He will corrupt you, you will only bring suffering upon others! Can you reconcile this with your conscience? ~
+@64 = ~You must know that I have developed a special plan for you. I was sure that you could not resist the prospect of power and eternal life. As a prize, however, you have exchanged your "soul" and your free will, my foolish Bhaalkind. ~
+@65 = ~My blood has enslaved you and bound me forever ... a delicious prospect, right? Too stupid Jon ... has other plans for you. I fear I will not be able to enjoy your company at my feet for long. ~
+@66 = ~I should have known you could not let it get in the way, Bodhi. As always in search of a new toy against the tormenting boredom. Through your ill-considered actions, you have jeopardized the plan. But that's for sure. ~
+@67 = ~You can give me peace, my brother. After all, I brought <CHARNAME> here, right? ~
+@68 = ~As long as you do not forget in the end to correct your small mistakes and dispose of them. I do not need to remind you that you have saved yourself from the death of a premature abortion. ~
+@69 = ~But to you, <CHARNAME>! You're getting into a pitiful dead thing. But you still have your usefulness to me. ~
+@70 = ~You were already waiting for a treat before your transformation. I will enjoy intoxicating myself with your fiery vampire blood, until you in your fingers go to glowing ashes. ~
+@71 = ~Do you have a moment for me, <CHARNAME>? ~
+@72 = ~Sure, why is it? ~
+@73 = ~Does this necessarily have to be now? ~
+@74 = ~We do not have time for that at the moment. ~
+@75 = ~So ... we both went through the same torture. Irenicus took our 'souls' and ... I know how it felt ... still feels it. I feel empty, as if something important is missing. ~
+@76 = ~I can understand if you do not want to talk about it at the moment. But it's important that we both now help each other. Who else do we have, besides us? Who can understand how it feels ... to lose his soul or whatever it was that took us. ~
+@77 = ~Do you want to go out on something specific? ~
+@78 = ~You'm probably right, but I'm not in the mood to talk about it at the moment. ~
+@79 = ~I'm sorry, of course I'm busy too. I almost just run straight, without ever being able to contain content properly. So much has happened ... ~
+@80 = ~But you look right ... weakened, so pale ... sick. I've been watching you for a while. You do not drink, do not eat ... do not even sleep. I'm worried about you. That's not healthy. We must continue and for that we need all our strength. ~
+@81 = ~I'm afraid, that's not all, Imoen. It's happened a lot since we last saw each other. ~
+@82 = ~It's nothing, I'm fine. ~
+@83 = ~Do I actually look so awful? ~
+@84 = ~As you like, <CHARNAME>. Maybe we'll talk later, yes? I'm just staying a little bit close to you, okay? * Imoen strokes briefly, but gently over your shoulder * ~
+@85 = ~Oh, <CHARNAME>! I do not know what you have to go through to find me. What happened? ~
+@86 = ~I've been through a transformation, Imoen. Even before I came here. ~
+@87 = ~Please, I can not talk about it. Not now. ~
+@88 = ~Just let me rest. ~
+@89 = ~Well, yes ... given the circumstances ... you should not think about it right now. We have hard times behind us and who knows what awaits us. ~
+@90 = ~What? What do you mean by that? What kind of transformation? ~
+@91 = ~Dark Gifts? What about dark gifts? Wovon redest Du denn da? ~
+@92 = ~No, come on, I want to know now. What kind of transformation? What happened to me? ~
+@93 = ~I accepted the dark gifts of the children of the night. ~
+@94 = ~We should not be standing here. We'll talk about it another time. ~
+@95 = ~What exactly happened? Come on, <CHARNAME>, I want to hear the whole story. ~
+@96 = ~Also good. I needed help to save you. I did not know where you are and also not how I should reach you. In Atkathla, there was a guild war between two rival groups. Only one of these guilds seemed to me influential enough to engage with the veiled magicians. ~
+@97 = ~And what was that for a grouping you helped? ~
+@98 = ~It was an underground organization that competed with the shadow thieves. Its leader was the vampire Bodhi. ~
+@99 = ~Bodhi? That's what the magician called this woman ... she was there when it happened. She was present at this sick ritual. She works for him! ~
+@100 = ~I know, but I did not know that at the time. When I had Bodhi so far as to "help" me, she made me an offer. ~
+@101 = ~What did she offer you? Dark Magic? ~
+@102 = ~She offered to turn me into one of her kind, a vampire. ~
+@103 = ~Ah, <CHARNAME>! We've already had enough to do with undead. Skeletons, rotten corpses, even ghosts. None of it was really friendly to us or? ~
+@104 = ~I've grown a little bigger to be able to defeat my enemies. ~
+@105 = ~I'm sorry, Imoen. Maybe it was a mistake, but I just did it to save you. ~
+@106 = ~I do not need to be taught by you. ~
+@107 = ~I ... do not know what to make of it. But. Hm. I believe I need to think for a while about what you said. ~
+@108 = ~For me? Oh, <CHARNAME>, I do not know what to say. Also. Hm. I believe I need to think for a while about what you said. ~
+@109 = ~I accepted the dark gifts of the children of the night. ~
+@110 = ~I do not know how to explain it. Maybe we'll talk about it another time. ~
+@111 = ~The Gifts of Vampirism. I'm a vampire. ~
+@112 = ~There is little basis for trust. I know what you're saying, vampire. And under other circumstances, I would put an end to your cursed existence on the spot! You will prove your worth to me if you did not want to let it happen. ~
+@113 = ~So you are not with Irenicus in the Bund and yet you bear the marks of his ... Faithful. The odor of death clings to you. I know you are not alive, Creator. ~
+@114 = ~We are the children of the night and have laid out a multitude of weaknesses to which mortals are subjected. We are the princes among the predators that are the rulers of the night. We follow the call of the blood and spread fear among the lesser beings who serve us as beasts. ~
+@115 = ~You are a parasite cursed by the gods. Under normal circumstances, I would not hesitate to arrange your destruction. However, many things are still unclear. And your relationship to Irenicus could make you a temporary ally ... so peculiar this circumstance also appears. ~
+@116 = ~Bring the lantern back and we'll look into what you see. Abuses our trust and we will find you. ~
+@117 = ~You forget who owes you obedience, child. It is the blood that calls you, the blood that determines you, the blood that is our kind of slave. Your blood is mine, I am your lord and you will follow where I command. ~
+@118 = ~And now bow your head and kneel before your Lord! ~
+@119 = ~(You suddenly feel a pull in your inner self and the involuntary desire to obey Bodhi's command. It's almost as if an invisible force with your mind were fighting for control over your limbs. It takes a lot of willpower and self-will. ab, to resist the urge.) ~
+@120 = ~You are bound to me, fool. And now you bend! ~
+@122 = ~(Your legs tremble and your knees soften. The invisible force in your body threatens to overwhelm you. Only by offering all your power do you succeed in pushing back Bodhi's will. He curses, withdraws from your mind , as if you had slammed a door in front of him and blocked it.) ~
+@123 = ~WAS? How are you? How can you? That's not possible! You are my slave! ~
+@124 = ~WAS? How are you? How can you? That's not possible! You are my slave! ~
+@125 = ~You can not break my will. Prepare for death! ~
+@126 = ~I'm not your slave. ~
+@128 = ~What did you do to me then? ~
+@129 = ~You! Damn you, Bhaalkind! ~
+@130 = ~I gave you the blood kiss, you are my child, my slave. My blood is praying over ... Stop! Bhaals essence! That's it. Somehow she protects you. ~
+@132 = ~Look forward to it, if you will, but with that the battle is far from over. ~
+@133 = ~Anyway, something is different about you. It feels strange to be near you. I do not know how to say it otherwise. ~
+@134 = ~You should not consider this offer, <CHARNAME>! Is it not bad enough that you have led us to serve these creatures of darkness and of wickedness as evildoers? I will not follow you in the darkness of this way. Think in your soul salvation, think in your humanity, think in your precious mortality! ~
+@135 = ~Life and death form a natural cycle. Both belong together and have no meaning without its counterpart. How can one appreciate life if one does not need to fear death? How can one endure death if one voluntarily gives up his life? Think about my words and think carefully about what you wanted to do with this creature. ~
+@136 = ~As a wanderer of the planes, I find it strange how petty the matter of matter reacts to beings they do not know or understand. The levels are colorful and varied, my friend. Race and origin are less important than you might think. Meaning is the free mind and the decisions you make with it. I can 't point you in that direction, my raven. According to my feelings, neither good nor evil lies within you. ~
+		~As a wanderer of the planes, it strangely strikes me how petty the matter of matter reacts to beings they do not know or understand. The levels are colorful and varied, my friend. Race and origin are less important than you might think. Meaning is the free mind and the decisions you make with it. I can 't point you in that direction, my raven. According to my feelings, neither good nor evil lies within you. ~
+@138 = ~Oh, I'm not feeling good about this thing, <CHARNAME>. I do not think that is a good idea. You do not need their "gifts". You may face challenges, but you are not alone. I am with you and will assist you. Please, leave it at that! ~
+@139 = ~Do not trust the words of this birth of damnation. This undead creature has only its own advantage in mind. Have no share in your corruption, otherwise you will lose more than just your life. We should destroy her and her brood, instead of standing here and negotiating with her. ~
+@140 = ~This Bodhi throws an iconic dark shadow that seems too familiar to me, I feared. The shadow prince had a similarly dark aura as she. And we both know where that ends. But I think you yourself have already noticed that. Not true, <CHARNAME>? ~
+@141 = ~If it helps you reach your girlfriend or this magician, it's probably worth a consideration. However, this could prove to be a tip with barbs and does not always sanctify the means. ~
+@142 = ~Minsc does not know what to say ... we are the heroes who step into the back of evil and have undead, we have often had our boots taste good. If you're worth one of yourselves, are you still a brave hero or a ship that gets behind other ships? I'll have to discuss this with Boo later. He's much smarter than he looks. His advice always sheds a whole new light on things. But you have to decide, my friend. ~
+		~Minsc does not know what to say about this ... we are the heroes who step into the back of evil and have undead we often let our boots taste. If you're worth one of yourselves, are you still a brave heroine or a ship that gets behind other ships? I'll have to discuss this with Boo later. He's much smarter than he looks. His advice always sheds a whole new light on things. But you have to decide, my friend. ~
+@144 = ~The mob sometimes do things that seem out of place to the nobility. I can & # 39; t tell you what to do or not to do. But am I the only one who does not like to be here? Do what you have to do, <CHARNAME>, but please let us leave these old graves again as soon as possible. ~
+@145 = ~(Not all of your dangers agree with your decision - your reputation will suffer as a result.) ~
+@146 = ~Are you sure you came here, thief? ~
+@147 = ~Hinterhalte sind Euer Gewerbe, Dieb! We're just waiting here and trying to catch them before they can fly and scatter in all the winds. ~
+@148 = ~Stop, Stranger! You there, are you <CHARNAME>? ~
+@149 = ~Yes, that's me. What did you want from me? ~
+@150 = ~What is this really about? ~
+@151 = ~No, I'm not. Excuse me now. ~
+@152 = ~My name is Tosrann Langic, trader from Thethyr and advisor at the court of the king and queen of Tethyr. We are on an important trade trip. ~
+		~My name is Verosa Langic, merchant from Thethyr and counselor at the court of the king and queen of Tethyr. We are on an important trade trip. ~
+@153 = ~My name is Amaleth, Priestess of the Lathander. We have come to put an end to your dark existence. We do not allow your innocent hunger to be sacrificed to you! In the name of the morning prince, we condemn you to death. May his holy light burn you and purify your corrupt souls. ~
+@154 = ~My name is Amaleth, Priestess of the Lathander. I lead these brave knights in the battle against the creatures of darkness, who are an abomination to our morning prince Lathander. We have learned from this citizen here that a murderer, a vampire, drives his ignorance on the streets of the city and seeks the living after the blood and the life. ~
+@155 = ~Oh, then please forgive us for picking you up, <SIRMAAM>. We trace in these lands in the name of the morning prince Lathander a dark creature of the night. Be on your guard on your paths as your journey continues. ~
+@156 = ~And to get to the point, you're accused of being this creature. What do you say to this accusation? ~
+@157 = ~Speak your prayers and draw your arms, I let no one judge me! ~
+@158 = ~This accusation is just ridiculous and a baseless suspicion. This man very obviously intends to abuse you for his dirty work. ~
+@159 = ~I will kill you all and bathe in your blood! ~
+@160 = ~I'm sure this is a misunderstanding. ~
+@161 = ~Now, <HESHE> actually looks a bit pale ... ~
+@162 = ~Then you are of death, creature of evil. In the name of the morning prince, we condemn you to death. May his holy light burn you and purify your corrupt souls. ~
+@163 = ~Maybe it's a misunderstanding. The innocent have nothing to fear from the righteous prince of the morning. Do you have any papers that speak for you? For example, a trade letter or a letter of order or recommendation from a sincere craftsman or trader of the city? ~
+@164 = ~I do not have any corresponding documents. ~
+@165 = ~Slow enough for me! I'm going where I want and you have no right to hold me! ~
+@166 = ~These toys tire me, step aside or I'll kill you all. ~
+@167 = ~And so you betray your own bloodshed, creature of evil! In the name of the morning prince, we condemn you to death. May his holy light burn you and purify your corrupt souls. ~
+@168 = ~No, Dieb! Without evidence, we can not simply prosecute this man, whether he is a citizen or a traveler. ~
+		~No, Dieb! Without evidence, we can not simply prosecute this lady, whether she's a citizen or a traveler. ~
+@169 = ~Since when can the clergy be manipulated by the shadow thieves? I'm an uneducated citizen. ~
+		~Since when can the clergy be manipulated by the shadow thieves? I'm an uneducated citizen. ~
+@170 = ~And I must have been a nerd to hear the word of a thief. I'm sorry we disturbed you, <SIRMAAM>. Goes with Lathander's blessing. ~
+@171 = ~Of course I'm sure. I saw how they entered the store. However, with all the noise caused by you and your men, it would already be a miracle if you did not warn them. By mask, we're planning a backlash here, my lady and no coffee gossip. ~
+@172 = ~Name it as you like, but please be a little quieter ... before ... ah! Yes, they are. That's <CHARNAME>! Do you understand? ~
+@173 = ~Nobody deals with shadow shadows and gets away with it. Neither the living nor the dead. Die in the knowledge that you have only put the shadow thief with the murder of Aran Linvail one temporary steamer.~
+@174 = ~Do not listen to her! Just look at your skin, it's pale as snow! I'm telling you this is <CHARNAME>! And she's a bloodthirsty, murderous untotes monster! ~
+@175 = ~You see, priest, they have nothing to show for it. I'm telling you, they killed on the open road. It's a shame! Maybe I should talk to the city guard again if you do not have the courage to oppose this beast. ~
+@176 = ~Damn ... Good <CHARNAME>. Then only we. I demand of you a death duel. Only we both. Man against man. Do you adopt or are you a coward? Hah! ~
+@177 = ~Then come here, my blade is waiting! And tell the fools who follow you that they should resign. Nobody deals with the shadow thieves with impunity! ~
+@178 = ~You will be the first to fall! And then all the others who were stupid enough to follow you. Nobody deals with the shadow thieves with impunity! ~
+		~You will be the first to fall! And then all the others who were stupid enough to follow you. Nobody deals with the shadow thieves with impunity! ~
+@179 = ~How ironic, a shadow thief with the honor of a knight. But well, I accept. ~
+@180 = ~After your beautiful retreat did not work out, you are probably too cowardly to bear the consequences of your failure. I do not grant you any notice. ~
+@181 = ~You will die, duel back and forth. So what does that already make for a difference? ~
+@182 = ~You should have your duel. ~
+@183 = ~How amusing, the shadow thieves use the Lathanderites to hunt down a vampire. Then show what you're up to. ~
+@184 = ~<CHARNAME>, I've been thinking about our last conversation. And I've been watching you for a while now. I do not know if you noticed that. ~
+@185 = ~I noticed that you often stare at me. ~
+@186 = ~Are you worried about me? ~
+@187 = ~Do you want to go out on something specific? ~
+@188 = ~I thought we already had that topic behind us. ~
+@189 = ~Starred? No, I do not have that. Or ... if, then I did not want that anyway. But there's something that keeps me busy. ~
+@190 = ~You're my sister, we grew up together, of course I'm worried about you! And that is probably not surprising given what we were told. But there is something that is particularly preoccupying me at the moment. ~
+@191 = ~Well, you have not talked much about the last few weeks. Of course, we did not have much time for that yet, but still. You have taken so much upon yourself to save me. Also this vampire ... story. ~
+@192 = ~You are now a vampire and I wonder what consequences this has and will have for you and us. And I also wonder how you feel about it. I have to admit, I do not know much about vampires. How much do you know about these creatures?~
+@193 = ~I know what I have observed with my own eyes. They are fast, strong, resistant and can transform into bats. ~
+@194 = ~They obviously react sensitively to sunlight and fire. ~
+@195 = ~I read about her in Kerzenburg. They have attained immortality and great strength because of the undoing, however, they also suffer from some sensitive weaknesses. ~
+@196 = ~I know very little about vampires. ~
+@197 = ~Enough questions for today, we should move on. ~
+@198 = ~Speed, strength, toughness ... is that for you? Well, then I'll tell you what you're obviously overseeing. I do not know much, but enough to know that vampires are untote monsters. And that's exactly what the people are holding you for. For a monster. ~
+@199 = ~Then these are probably things we should avoid on our travels. What refers to sunlight is probably easier said than done. But that's not all. I do not know much, but enough to know that vampires are untote monsters. And that's exactly what the people are holding you for. For a monster. ~
+@200 = ~Then the question you should ask is what these "weaknesses" look like. Immortality and strength, what do these things mean when the people around you think of you as a monster? ~
+@201 = ~Then you got involved in this thing ... without knowing what to expect exactly? Does that not bother you at all? I do not know much, but enough to know that vampires are untote monsters. And that's exactly what the people are holding you for. For a monster. ~
+@202 = ~Nice, I do not know anyway, why I'm even bothering to help you. At least you did not deserve it. But I'm already quiet. We're moving on. ~
+@203 = ~Look, I do not want to bother you, I just thought we could analyze the situation together. Maybe we'll talk about it another time. ~
+@204 = ~Presumably we do well to keep it to ourselves. When this becomes known, we will no longer be welcome in the city. Maybe they's even chasing us. On the other hand, as descendants of Bhaal, we are presumably constantly getting into trouble anyway. ~
+@205 = ~You've too much to worry about, we'll be done right away. ~
+@206 = ~Do you also consider me a monster? ~
+@207 = ~I have no intention of tying anyone's nose who we are. ~
+@208 = ~Too many worries? We should not take this lightly, <CHARNAME>. Much more than that, however, worries me the question of whether this vampire creature might not really turn you into a monster. Maybe not right away, but with time. Abergläubische Bauernlegenden I do not care in principle. But legends usually have a true core. ~
+@209 = ~I have not changed, Imoen and I will not. ~
+@210 = ~Don't be silly, Imoen. Do I look like I'll lose my mind right away? ~
+@211 = ~With the bloody blood, death follows us step by step. So what should change? ~
+@212 = ~Some things are just worth taking risks, sister. ~
+@213 = ~This is slow enough now, I have no desire to discuss it. ~
+@214 = ~No, I do not. But I'm worried about whether this vampire creature might not really soon turn into a monster. Maybe not right away, but with time. I do not care about superstitious peasant legends in principle. But legends usually have a true core. ~
+@215 = ~Of course not. But even if we remain unrecognized, the question worries me that this vampire creature may not really turn you into a monster. Maybe not right away, but with time. I do not care about superstitious peasant legends. But legends usually have a true core. ~
+@216 = ~But you did. But perhaps only in comparison to our childhood. You can sometimes be very cruel. ~
+@217 = ~I'm taking you at my word, <CHARNAME>. Whatever happens, I'll be there for you. Like you for me. ~
+@218 = ~Presumably it's a good sign that we can still be albern at all. Little crazy <CHARNAME>! Hah! ~
+		~Presumably it's a good sign that we can still be gloomy at all. Little crazy <CHARNAME>! Hah! ~
+@219 = ~At least you're convinced of what you're doing. I guess that's worth it. At least it proves that you're still the Lord of your own choices. ~
+@220 = ~But we should move on slowly. ~
+@221 = ~Silk greetings, <CHARNAME>. Herrin Bodhi has already announced you. My name is Larcus. I suppose the Lord mentioned me? I have a trade contact to Calimhafen and can provide you with a diverse selection of goods. Just say goodbye when you want to see my goods. ~
+@222 = ~You act differently than Bodhi's usual servitude. How did it get you here? ~
+@223 = ~Show me your goods. ~
+@224 = ~I'll look at your goods another time. ~
+@225 = ~One could say that the Lord and I certainly have an agreement with each other and they had to use less drastic means to ensure my loyalty, as she does with others. That's all you need to know. Do you want to see now what I have for sale or not? ~
+@226 = ~Well done, then show me what you have to offer. ~
+@227 = ~Maybe another time. Lives well. ~
+@228 = ~As you wish, you know where you can find me, if you change your mind. ~
+@229 = ~Then you say yes again. Do you want to see my goods or do you just take a "walk"? ~
+@230 = ~Contact Larcus if you want to buy or sell your goods. He should also be able to identify magical objects for you. You will find him in the main hall. ~
+@231 = ~Yes, accept the darkness and become a part of it. You will be an outsider here under the Rivvin, an outcast. They will be afraid and chase you, but that's nothing new ... neither for you nor for me. And the price is worth it. Only fools could doubt that. ~
+@232 = ~There is little that I despise more than cowardice and weakness of will. I thought you were brave and determined. Not that my expectation was particularly high. But what is to be expected of a male from the surface? ~
+		~There is little that I despise more than cowardice and weakness of will. I thought you were brave and determined. Not that my expectation was particularly high. But what should one expect from a female from the surface? ~
+@233 = ~Do what you have to do, but hurry up. And remember that I'll keep an eye on you. You get nothing from my blood! ~
+@234 = ~Also good. then we come back to the real reason why we stand in this stinking ditch, yes? ~
+@235 = ~And so you join the immortal dead ... in a way enviable. At the same time, the price will be high. But you are obviously willing to pay him, even if I doubt that you understand his true meaning. ~
+@236 = ~Eternal life and power that simply goes beyond the ordinary mortal seems to me to be right. You will not receive such an offer a second time in your life. ~
+@237 = ~As long as it helps to free your girlfriend from the clutches of the veiled magician and find Irencius, it seems to be worth it. I welcome your decision, it requires courage and um ... Sacrifice. ~
+@238 = ~It was certainly a difficult choice for you, but now yes. I can not bother you to turn down your offer. We're been this way so far, have we?~
+@239 = ~How wonderful! Then that's it. We will surely become all good friends. And when it's time to celebrate this day of joy with a festivity, then let me know, yes? Not that I want to force myself ... ~
+@240 = ~Ah, how rude to reject their offer, but now good. To be precise, we do not know this lovely lady for too long and you do not have to break anything over her knee. Confidence takes time to develop. ~
+@241 = ~I am deeply saddened that you have decided to become a soulless monster. I find it difficult to pursue your motivation, let alone feel it is right. I hope you will still recognize what a terrible mistake you are making. ~
+@242 = ~For a moment I was afraid you would give in to the dark lady. But you have chosen wisely. No one of us knows what the coming days will bring, but I think fate holds brighter days ready for you. ~
+@243 = ~I have warned you that I will not follow you if you choose this dark path. Still ... Your soul may not be lost yet. I do not know if it will still be possible to save you, but I considered it my duty not to leave anything unattended. ~
+@244 = ~You make the only right decision, my friend. There are limits that should never be exceeded and I am glad to see that you still have scruples despite your previous path. That's a good sign and speaks for you. ~
+@245 = ~We all need to understand the mortality of our existence as a part of life in which we have a share. Everything else robs us of every meaning and every meaning. But I'm just repeating myself and you have already decided, <CHARNAME>. Obviously you can not vote my words. ~
+@246 = ~I thank you for thinking of my advice. We will get by without their "gifts". And we will overcome the challenges that lie ahead of us without overcoming us in nature. ~
+@247 = ~A raven with dark swings, a deep shadow cast.
+To defeat his enemies, he went into the darkness.
+Blood to blood, pass away and ache.
+In the end forget. ~
+@248 = ~It's your choice, my raven. I only hope you made this decision out of yourself and did not allow it to give in to the misunderstanding and intolerance of matter. ~
+@249 = ~How can you just do that, <CHARNAME>? I just do not understand. That is simply wrong and will only end in suffering, in Eurem and the other. I'm missing the words to express my shock~
+@250 = ~Yes, do not give in to your urges! Remain the person you are or you will lose yourself in the end. This soulless creature is as dark as this whole place, can we disappear from here now? ~
+@251 = ~I should have already recognized at our first encounter what a despicable character you possess, <CHARNAME>. At Tor, Tyr and Helm, you embody everything that detracts from the Order of the Radiant Heart! And the day will come when you will be held accountable! ~
+@252 = ~You heard him, Bodhi. Stays back and on distance or you will be directed to the place. The need alone makes us allies, nothing more. You will not find anyone among us who wants to share in your corruption. ~
+@253 = ~Don't be silly, <CHARNAME>! Creatures like them will promise you everything possible to corrupt you and live your life. It is short-sighted and petty-minded, so to speak. ~
+@254 = ~After all we've already seen, your darkness is only too familiar to us. Decoys and tricks can not tempt us to offer you in this way. ~
+@255 = ~Well, hey, I just hope we do not regret this day. None of us can look to the future to be able to say with certainty what effect this development will have on you. Nevertheless, somehow it is disturbing. ~
+@256 = ~Well, hey, I just hope we do not regret this day. None of us can look to the future to be able to say with certainty whether we are dependent on your offer of help or not. Still, somehow it's a soothing thought that you are not following in your footsteps. ~
+@257 = ~Sometimes it's necessary to pack a little harder when it's for a good cause. But this is difficult to estimate here. Minsk will speak later if he can think of it. ~
+@258 = ~We've had more fights than I can count. And we will be disputing many more. Whatever this creature of the evil one has offered you, nothing good can come of it and it is wise of you to recognize it. Boo would be proud of you! ~
+@259 = ~I'm uncomfortable thinking about what you're doing, but I'm probably left with nothing but to accept it. Only be faithful to your heart and do not forget that the life of the common people is also valuable and important. ~
+@260 = ~Presumably it's so best. You should not try to become more - or much more something different than you are now. This does not mean that you should not set goals, but in any case not like these. ~
+@261 = ~One more thing ... even if it should actually be self-explanatory. You should regularly quench your hunger or it will weaken your strength and make you weak. This weakness can make the difference between victory and final death at an inconvenient moment and you certainly did not want to experience it. ~
+@262 = ~In order to live in fresh blood, you must use your claws against the living. Alternatively, as long as we have not yet broken the spell, you can strengthen yourself in our hypnosis. In addition, you can acquire blood from bottles filled by Larcus. It tastes less cold ... intense, but it should fulfill its purpose. My servants regularly get new drinking water and let it bleed for us. ~
+@263 = ~Even though I'm not an expert in the field, from a purely academic point of view, there are certainly arguments to consider your offer. In particular, the prospect of eternal life would be an attractive prospect for many scholars and magicians ... and certainly other circles of people as well. ~
+@264 = ~As a scholar, this is already a pretty exciting moment for me. There are only a few who can claim to have been witnesses of the passing of the vampire curse. And how much less with the sharp gaze and mind of a student of arcane art? Ah, wait, maybe I should document all this in writing for my documents, right? ~
+@265 = ~Admittedly, it's not an easy decision to enter the Wagnis of Untodes. Most people see in the undead little more as soulless monsters and grotesquely distorted imitations of one life. Presumably it's better that way. After all, we already have enough trouble following us step by step. ~
+@266 = ~The blood flows in streams, wherever we go. If it increases your killing efficiency, take a chance. Do not be the one who fears the monster in the dark, be the monster. Strength is everything. It opens the way to every destination. ~
+@267 = ~Yes, take the power of your gift and bring death to all who stand in our way. First the veiled magicians and then Irenicus. Revenge tastes sweeter than anything else. Let us bathe in their blood together and suffocate them in it. ~
+@268 = ~Pah, a mistake! You are simply knocking out the power that is being offered to you. What are you really afraid of? Or are they the narrow bonds of morality that bind you? You will probably never get such an opportunity again. ~
+@269 = ~Death is a natural component of the life cycle, just as the sun brings the dawn and sinks in the evening with dusk. Breaking through the cycle means always applying the darkness, the abstinence. From this only despair and malice can grow. ~
+@270 = ~Do you know what awaits you and yet do you willingly give it to yourself? From this path there can be no salvation, no peace. For the moment I will continue to follow you, but I do not know if this will continue. I feared the darkness touched your heart deeply. ~
+@271 = ~Demonic ambushes can not upset an established will, stolen from a thousand trials. The true evil has revealed his face here and today. ~
+@272 = ~You are on the threshold of the cold grave, <CHARNAME>. You will win a lot if you accept the death, but you will also lose a part of you. One part dies ... forever. And you will be bound to Bodhi forever. She will be the mistress and her servant. ~
+		~You are on the threshold of the cold grave, <CHARNAME>. You will win a lot if you accept the death, but you will also lose a part of you. One part dies ... forever. And you will be bound to Bodhi forever. She will be the mistress and you her servant. ~
+@273 = ~I can help you deal with the shock of the first hours of the cold rebirth. What you understand is not pleasant, I can assure you. If your will is strong enough, you will be able to overcome it without losing your mind. ~
+@274 = ~What reasons do you actually move, <CHARNAME>, the true horror of my kind will never be understood by you. As little as the prospect of the power of death that has soaked you up. ~
+@275 = ~He has no value to you. Obviously, you already have your own means of protecting yourself from the daylight. Whatever your secret may be, you have come out without Dragomir's attachment so far. ~
+@276 = ~We are united in the embrace of the eternal night, but that does not make our goals the same. And not us automatically to allies. ~
+@277 = ~Our predatory nature often forces us to a lonely path. I was just wondering how you stand against our undead nature. ~
+@278 = ~We can be powerful allies or terrible enemies. I'll keep an eye on you until further notice, until I'm clear about it. ~
+@279 = ~Your nature gives you strength and for that I have a benefit. ~
+@280 = ~I judge you by your deeds and not by your nature. ~
+@281 = ~Then we hope for the first, for our both wills ... ~
+@282 = ~Not all vampires are evil by nature. Since you are one of us, you should know this best. ~
+@283 = ~Does not offend my judgment. ~
+@284 = ~We are equal ... you and I ... children of the night. I have no more reason to fear you than you. ~
+@285 = ~Live for me. We share the same fate and together we will rule over the night. ~
+@286 = ~How can you just give up the immortality we have achieved? I just do not understand it. ~
+@287 = ~Vampirism
+
+YOUNG VAMPIRE
+
+As a Young Vampire, <CHARNAME> has the following ATTRIBUTES:
+
+Attributes: STR +6, DEX +4, INT +2, WIS +2, CHA +4
+
+Immunities: Immunity to Charm, Stun / Paralyze, Cling, Poison, Sleep, Level Drain, and Death Magic
+
+Can only be injured by magic weapons +1 or better
+
+Electricity Resistance: +50%
+
+Cold Resistance: +50%
+
+Regeneration: 3 HP per Round
+
+SPECIAL SKILLS:
+
+Gaseous form (automatic transformation at less than 50% HP, accelerated regeneration)
+Wolf Shape (any number / day)
+Bat Shape (any number / day)
+Vampire's Gaze (any number / day)
+Blood Kiss (1x / day)
+Children of the Night (1x / day)
+
+ATTACK:
+
+Vampire Claws: Damage 1d6 +1, Level Drain on Hit (1) ~
+@288 = ~Vampirism
+
+VAMPIRE
+
+As a Vampire, <CHARNAME> has the following ATTRIBUTES:
+
+Attributes: STR +6, DEX +4, INT +2, WIS +2, CHA +4
+
+Immunities: Immunity to Charm, Stun / Paralyze, Cling, Poison, Sleep, Level Drain, and Death Magic
+
+Can only be injured by magic weapons +1 or better
+
+Electricity Resistance: +50%
+
+Cold Resistance: +50%
+
+Regeneration: 3 HP per Round
+
+SPECIAL SKILLS:
+
+Gaseous Form (automatic transformation at less than 50% HP, accelerated regeneration)
+Wolf Shape (any number / day)
+Bat Shape (any number / day)
+Vampire's Gaze (any number / day)
+Blood Kiss (1x / day)
+Children of the Night (1x / day)
+
+ATTACK:
+
+Vampire Claws: Damage 1d6 +2, Level Drain on Hit (2) ~
+@289 = ~Vampirism
+
+ELDER VAMPIRE
+
+As an Elder Vampire, <CHARNAME> has the following ATTRIBUTES:
+
+Attributes: STR +6, DEX +4, INT +2, WIS +2, CHA +4
+
+Immunities: Immunity to Charm, Stun / Paralyze, Cling, Poison, Sleep, Level Drain, and Death Magic
+
+Can only be injured by magic weapons +2 or better
+
+Electricity Resistance: +50%
+
+Cold Resistance: +50%
+
+Regeneration: 6 HP per Round
+
+SPECIAL SKILLS:
+
+Gaseous Form (automatic conversion at less than 50% HP, accelerated regeneration)
+Wolf Shape (any number / day)
+Bat Shape (any number / day)
+Vampire's Gaze (any number / day)
+Blood Kiss (1x / day)
+Children of the Night (1x / day)
+
+ATTACK:
+
+Vampire Claws: Damage 1d6 +3, Level Drain on Hit (3) ~
+@290 = ~Vampirism
+
+VAMPIRE LORD
+
+As a Vampire Lord, <CHARNAME> has the following ATTRIBUTES:
+
+Attributes: STR +6, DEX +4, INT +2, WIS +2, CHA +4
+
+Immunities: Immunity to Charm, Stun / Paralyze, Cling, Poison, Sleep, Level Drain, and Death Magic
+
+Can only be injured by magic weapons +3 or better
+
+Electricity Resistance: +50%
+
+Cold Resistance: +50%
+
+Regeneration: 12 HP per Round
+
+SPECIAL SKILLS:
+
+Gaseous Form (automatic conversion at less than 50% HP, accelerated regeneration)
+Wolf Shape (any number / day)
+Bat Shape (any number / day)
+Vampire's Gaze (any number / day)
+Blood Kiss (1x / day)
+Children of the Night (1x / day)
+
+ATTACK:
+Vampire Claws: Damage 1d6 +4, Level Drain on Hit (4) ~
+@291 = ~Vampirism
+
+VAMPIRE AVATAR
+
+As an Vampire Avatar, <CHARNAME> has the following ATTRIBUTES:
+
+Attributes: STR +6, DEX +4, INT +2, WIS +2, CHA +4
+
+Immunities: Immunity to Charm, Stun / Paralyze, Cling, Poison, Sleep, Level Drain, and Death Magic
+
+Can only be injured by magic weapons +3 or better
+
+Electricity Resistance: +50%
+
+Cold Resistance: +50%
+
+Regeneration: 12 HP per Round
+
+SPECIAL SKILLS:
+
+Gaseous Form (automatic conversion at less than 50% HP, accelerated regeneration)
+Wolf Shape (any number / day)
+Bat Shape (any number / day)
+Vampire's Gaze (any number / day)
+Blood Kiss (1x / day)
+Children of the Night (1x / day)
+
+ATTACK:
+Vampire Claws: Damage 1d6 +5, Level Drain on Hit (5) ~
